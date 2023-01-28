@@ -2,4 +2,4 @@
 Its Flipkart-Clone
 
 
-Click to visit website: https://krishna-prabu.github.io/Flipkart/
+Click to visit website:  https://krishna-prabu.github.io/Flipkart-clone/
